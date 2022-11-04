@@ -1,0 +1,14 @@
+
+ActionResult : Sayfalar View Doneriz
+ContentResult:String ifade
+JsonResult   :Json dönmek için n
+EmptyResult  :Boþ dönmek için 
+
+RedirectToAction :Sayfaya Yönlendirme yapar
+
+Veri Taþýma Yöntemleri(Controller-View)
+---------------------------------------
+ViewBag  :  
+ViewData :
+TempData :
+ViewModel:
